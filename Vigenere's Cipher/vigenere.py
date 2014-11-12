@@ -1,6 +1,6 @@
 
 
-# Vigenere's Cipher
+# Python implementation of Vigenere's Cipher
 # by Jan Ray C. Rulida
 # November 11, 2014
 
