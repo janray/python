@@ -28,7 +28,7 @@ while True:
         break
 
 
-inputString = raw_input("Please enter text to encipher: ");
+inputString = raw_input("Please enter text to encipher using Vigenere's CIpher: ");
 
 keyLength = len(keyString)
 
